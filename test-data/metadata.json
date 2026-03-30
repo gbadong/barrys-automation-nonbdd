@@ -1,107 +1,447 @@
 [
-  {
-    "currentUrl": "https://www.barrys.com/studio/castro",
-    "currentMetaTitle": "Gym in Castro, San Francisco: Book a Workout Class | Barry's",
-    "currentMetaDescription": "The Castro studio is a landmark in and of itself. Surrounded by LGBTQ hot spots, this studio features a large & inviting lobby, a Fuel Bar, and outdoor seating."
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/castro",
-    "currentMetaTitle": "Castro Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Castro located at 2280 Market Street (Corner of 16th & Noe; formerly CVS) San Francisco, CA 94114"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/castro",
-    "currentMetaTitle": "Castro Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Castro located at 2280 Market Street (Corner of 16th & Noe; formerly CVS) San Francisco, CA 94114"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/burlingame",
-    "currentMetaTitle": "Burlingame Gym Studio: Book a Fitness Class | Barry's",
-    "currentMetaDescription": "A hop, skip and a jump south of San Francisco and only five minutes from SFO. Burlingame may be full of small town charm, but the hustle remains the same."
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/burlingame",
-    "currentMetaTitle": "Burlingame Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Burlingame located at 1333 Howard Avenue (located across from Safeway) Burlingame, CA 94010"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/burlingame",
-    "currentMetaTitle": "Burlingame Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Burlingame located at 1333 Howard Avenue (located across from Safeway) Burlingame, CA 94010"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/fidi",
-    "currentMetaTitle": "FiDi San Francisco Studio: Book a Workout Class | Barry's",
-    "currentMetaDescription": "Charmingly nestled in the heart of San Francisco's Financial District, Barry's FiDi is in the perfect location for SF's work hard, play hard professional crowd."
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/fidi",
-    "currentMetaTitle": "FiDi Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's FiDi located at 333 Bush Street San Francisco, CA 94104"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/fidi",
-    "currentMetaTitle": "FiDi Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's FiDi located at 333 Bush Street San Francisco, CA 94104"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/san-francisco-marina",
-    "currentMetaTitle": "Gym in the Marina District: Book a Workout Class | Barry's",
-    "currentMetaDescription": "San Francisco's Marina studio is steps away from the city's famous coastline. HIIT a 12.5 in the Red Room, then grab a shake and walk to that Golden Gate view."
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/san-francisco-marina",
-    "currentMetaTitle": "Marina Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Marina located at 2246 Lombard Street San Francisco, CA 94123"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/san-francisco-marina",
-    "currentMetaTitle": "Marina Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Marina located at 2246 Lombard Street San Francisco, CA 94123"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/palo-alto",
-    "currentMetaTitle": "Palo Alto Gym Near Me: Book a Fitness Class | Barry's",
-    "currentMetaDescription": "Barry's Palo Alto is steps away from the Stanford Campus in the heart of Silicon Valley. ( located at Stanford Shopping Center)."
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/palo-alto",
-    "currentMetaTitle": "Palo Alto Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Palo Alto located at 228 Stanford Shopping Center (located adjacent to Pressed Juicery & across from GAP) Palo Alto, CA 94304"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/palo-alto",
-    "currentMetaTitle": "Palo Alto Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Palo Alto located at 228 Stanford Shopping Center (located adjacent to Pressed Juicery & across from GAP) Palo Alto, CA 94304"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/santana-row",
-    "currentMetaTitle": "Santana Row Gym Near Me: Book a Workout Class | Barry's",
-    "currentMetaDescription": "Learn more about Barry's Santana Row location. Book or buy classes today to get the best workout of your life!"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/santana-row",
-    "currentMetaTitle": "Santana Row Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Santana Row located at 3060 Olsen Drive Suite 120 San Jose, CA 95128"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/santana-row",
-    "currentMetaTitle": "Santana Row Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Santana Row located at 3060 Olsen Drive Suite 120 San Jose, CA 95128"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/studio/walnut-creek",
-    "currentMetaTitle": "Gym Near Me in Walnut Creek, CA: Book a Workout Class | Barry’s",
-    "currentMetaDescription": "Barry's Walnut Creek studio is breaking ground in California. Get on the list to be up to date on exclusive pre-opening memberships, events, and more!"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/pricing/walnut-creek",
-    "currentMetaTitle": "Walnut Creek Fitness Membership & Workout Class Pricing | Barry's",
-    "currentMetaDescription": "View class, packages, and membership pricing at Barry's Walnut Creek located at 1380 N. California, Walnut Creek, CA 94596"
-  },
-  {
-    "currentUrl": "https://www.barrys.com/schedule/walnut-creek",
-    "currentMetaTitle": "Walnut Creek Class Schedule: Reserve Your Spot | Barry’s",
-    "currentMetaDescription": "View the class schedule, reserve a class, or join the waitlist at Barry's Walnut Creek located at 1380 N. California, Walnut Creek, CA 94596"
-  }
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing",
+        "currentMetaTitle":"Pricing Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Pricing"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-st-pauls",
+        "currentMetaTitle":"London St Paul\u2019s Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London St Paul\u2019s located at 33 Gutter Lane London EC2V 8AS"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/barrys-bootcamp-sw1",
+        "currentMetaTitle":"London SW1 Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London SW1 located at 16 Eccleston Yards Eccleston Place, London SW1W 9NF"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/stockholm",
+        "currentMetaTitle":"Stockholm Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Stockholm located at Jakobsbergsgatan 21 Stockholm, 111 44"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-soho",
+        "currentMetaTitle":"London SOHO Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London SOHO"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/denver",
+        "currentMetaTitle":"Denver Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Denver located at 260 North Josephine Suite 100 Denver, CO 80206"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/scarsdale",
+        "currentMetaTitle":"Scarsdale Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Scarsdale located at 1142 Wilmot Rd Scarsdale, NY 10583"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-west",
+        "currentMetaTitle":"London West Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London West located at 9A Queensway London, W2 4QJ"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/santana-row",
+        "currentMetaTitle":"Santana Row Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Santana Row located at 3060 Olsen Drive Suite 120 San Jose, CA 95128"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/tribeca",
+        "currentMetaTitle":"Tribeca Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Tribeca located at 1 York St. New York City, NY 10013"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/brentwood",
+        "currentMetaTitle":"Brentwood Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Brentwood located at 11677 San Vicente Blvd Suite 105, Los Angeles, CA 90049"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/wainscott",
+        "currentMetaTitle":"Wainscott Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Wainscott located at 352 Montauk Highway Wainscott, NY 11975"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/minneapolis",
+        "currentMetaTitle":"Minneapolis Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Minneapolis"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/fidi",
+        "currentMetaTitle":"FiDi Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's FiDi located at 333 Bush Street San Francisco, CA 94104"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/scottsdale",
+        "currentMetaTitle":"Scottsdale Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Scottsdale located at 6107 N Scottsdale Rd, Suite C09 Scottsdale, AZ 85250"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/berlin",
+        "currentMetaTitle":"Berlin Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Berlin"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/barcode",
+        "currentMetaTitle":"Barcode Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Barcode located at Trelastgata 25 0191 Oslo,"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/west-hollywood",
+        "currentMetaTitle":"West Hollywood Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's West Hollywood located at 8383 Santa Monica Blvd. West Hollywood, CA 90069"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/roslyn",
+        "currentMetaTitle":"Roslyn Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Roslyn"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/chestnut-hill",
+        "currentMetaTitle":"Chestnut Hill Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Chestnut Hill located at 55 Boylston St., Ste. 5568 Chestnut Hill, MA 02467"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/san-francisco-marina",
+        "currentMetaTitle":"Marina Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Marina located at 2246 Lombard Street San Francisco, CA 94123"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/park-ave-south",
+        "currentMetaTitle":"Park Ave South Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Park Ave South located at 107 East 27th St New York City, NY 10016"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/fana",
+        "currentMetaTitle":"Fana Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Fana located at Kokstadvegen 23 Kokstad, 5257"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/burlingame",
+        "currentMetaTitle":"Burlingame Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Burlingame located at 1333 Howard Avenue (located across from Safeway) Burlingame, CA 94010"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/senato",
+        "currentMetaTitle":"Senato Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Senato located at Via Senato 36 - 20121 Milano, Italy"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/liverpool",
+        "currentMetaTitle":"Liverpool Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Liverpool"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/santa-monica",
+        "currentMetaTitle":"Santa Monica Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Santa Monica located at 500 Broadway Santa Monica, CA"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/seattle",
+        "currentMetaTitle":"Seattle Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Seattle located at 112 Westlake Ave N Seattle, WA 98109"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/wickerpark",
+        "currentMetaTitle":"Wicker Park Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Wicker Park located at 1457 N Milwaukee Ave, Chicago, IL 60622"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/austin",
+        "currentMetaTitle":"Austin Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Austin"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/copenhagen",
+        "currentMetaTitle":"Copenhagen Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Copenhagen"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/san-diego",
+        "currentMetaTitle":"San Diego Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's San Diego located at 1220 Cleveland Ave San Diego, CA 92103"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/manchester",
+        "currentMetaTitle":"Manchester MCR Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Manchester MCR located at 3 Lower Byrom St, , Manchester, M3 4BJ"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/madrid",
+        "currentMetaTitle":"Madrid Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Madrid"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/navy-yard",
+        "currentMetaTitle":"Navy Yard Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Navy Yard located at 300 Tingey St SE # 120, Washington, DC 20003"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/vancouver",
+        "currentMetaTitle":"Vancouver Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Vancouver"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/midtown-miami",
+        "currentMetaTitle":"Midtown Miami Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Midtown Miami located at 3250 NE 1st Ave, Suite 105 Miami, FL 33137"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/aventura",
+        "currentMetaTitle":"Aventura Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Aventura located at 2920 NE 207th St Suite 105 Aventura, FL 33180"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/nashville",
+        "currentMetaTitle":"Nashville Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Nashville located at 308 11th Ave South Nashville, TN 37203"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/palo-alto",
+        "currentMetaTitle":"Palo Alto Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Palo Alto located at 228 Stanford Shopping Center (located adjacent to Pressed Juicery & across from GAP) Palo Alto, CA 94304"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/gothenburg",
+        "currentMetaTitle":"Gothenburg Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Gothenburg located at Kyrkogatan 58 411 08 Gothenburg,"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/paris",
+        "currentMetaTitle":"Paris Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Paris located at 82-92 Rue Reaumur Paris, 75002"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/miami-beach",
+        "currentMetaTitle":"Miami Beach Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Miami Beach located at 1835 Purdy Ave Miami Beach, FL 33139"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/arlington",
+        "currentMetaTitle":"Arlington Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Arlington located at 2825 Wilson Blvd. Arlington, VA 22201"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/charlotte",
+        "currentMetaTitle":"Charlotte Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Charlotte"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/dallas",
+        "currentMetaTitle":"Dallas Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Dallas located at 3600 McKinney Ave. Ste. 150 Dallas, TX 75204"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/barcelona",
+        "currentMetaTitle":"Barcelona Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Barcelona"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/newport-beach",
+        "currentMetaTitle":"Newport Beach Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Newport Beach"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/chelsea",
+        "currentMetaTitle":"Chelsea Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Chelsea located at 135 W. 20th St. New York City, NY 10011"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-central",
+        "currentMetaTitle":"London Central Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London Central located at 163 Euston Road London, NW1 2BH"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/castro",
+        "currentMetaTitle":"Castro Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Castro located at 2280 Market Street (Corner of 16th & Noe; formerly CVS) San Francisco, CA 94114"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/tampa",
+        "currentMetaTitle":"Tampa Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Tampa located at 1514 W Swann Ave, Tampa, FL 33606"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/venice",
+        "currentMetaTitle":"Venice Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Venice located at 1500 Lincoln Boulevard Venice Beach, CA 90291"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/bergen",
+        "currentMetaTitle":"Bergen Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Bergen located at Nonnesetergaten 4 Bergen, 5015"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/calgary",
+        "currentMetaTitle":"Calgary Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Calgary located at 2306 4th Street SW Calgary, AB T2S 1X2"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/long-beach",
+        "currentMetaTitle":"Long Beach Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Long Beach located at 6480 E. Pacific Coast Highway Unit D-155 Long Beach, CA 90803"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/lincoln-park",
+        "currentMetaTitle":"Lincoln Park Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Lincoln Park located at 1937 N Halsted Chicago, IL 60614"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/buckhead",
+        "currentMetaTitle":"Buckhead Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Buckhead located at 303 East Paces Ferry Road Atlanta, Georgia 30305"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/upper-west-side",
+        "currentMetaTitle":"Upper West Side Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Upper West Side located at 72-74 W. 69th St New York New York, New York 10023"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/yorkville",
+        "currentMetaTitle":"Yorkville Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Yorkville located at 100 Bloor St. W Toronto Ontario M5S3L7"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/houston",
+        "currentMetaTitle":"Houston Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Houston located at 1953 West Gray Houston, TX 77019"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/dupont-circle",
+        "currentMetaTitle":"Dupont Circle Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Dupont Circle located at 1345 19th St. NW Washington, D.C. 20036"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/back-bay",
+        "currentMetaTitle":"Back Bay Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Back Bay located at 455 Stuart Street Boston, MA 02116"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-canary-wharf",
+        "currentMetaTitle":"London Canary Wharf Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London Canary Wharf located at Level Minus 2, 1 Crossrail Place , Canary Wharf E14 5AR"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/south-bay",
+        "currentMetaTitle":"South Bay Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's South Bay located at 700-B Allied Way Suite B5.02 El Segundo, CA 90245"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/dublin",
+        "currentMetaTitle":"Dublin Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Dublin located at Unit 1, Lower Ground Floor, 13\/17 Dawson Street, Dublin"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/oslo",
+        "currentMetaTitle":"Colosseum Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Colosseum located at Parkveien 29 Oslo, 0350"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/pasadena",
+        "currentMetaTitle":"Pasadena Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Pasadena located at 326 S Lake Ave. Pasadena, CA 91101"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/east-64th",
+        "currentMetaTitle":"East 64th Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's East 64th located at 1216 2nd Ave New York City, NY 10065"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/chicago-rivernorth",
+        "currentMetaTitle":"River North Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's River North located at 11 West Erie Street Chicago, IL 60654"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/boston-downtown",
+        "currentMetaTitle":"Downtown Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Downtown located at 30 Chauncy St Boston, MA 02110"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/london-east",
+        "currentMetaTitle":"London East Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's London East located at 2 Worship Street London, EC2A 2AH"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/toronto",
+        "currentMetaTitle":"Richmond Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Richmond located at 310 Richmond St. West Unit 1 Toronto, Ontario M5V0B4"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/east-86th",
+        "currentMetaTitle":"East 86th Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's East 86th located at 237 E 86th Street New York, NY 10028"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/southampton",
+        "currentMetaTitle":"Southampton Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Southampton located at 10 Montauk Highway Southampton, NY 11968"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/frankfurt",
+        "currentMetaTitle":"Frankfurt Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Frankfurt"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/portland",
+        "currentMetaTitle":"Portland Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Portland"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/zurich",
+        "currentMetaTitle":"Zurich Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Zurich located at Talstrasse 83, 8001 Z\u00fcrich"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/noho",
+        "currentMetaTitle":"Noho Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Noho located at 419 Lafayette St New York City, NY 10003"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/philadelphia",
+        "currentMetaTitle":"Philadelphia Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Philadelphia located at 1911 Sansom Street Philadelphia, PA 19103"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/hoboken",
+        "currentMetaTitle":"Hoboken Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Hoboken located at 119 River St, Suite A, Hoboken, NJ 07030"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/salt-lake-city",
+        "currentMetaTitle":"Salt Lake City Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Salt Lake City located at 2188 Highland Dr., Suite 104, SLC, UT 84106"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/marbellapopup",
+        "currentMetaTitle":"Marbella Pop Up Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Marbella Pop Up"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/charleston",
+        "currentMetaTitle":"Charleston Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Charleston located at 838 Morrison Dr, Suite 120, Charleston, SC 29403"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/williamsburg",
+        "currentMetaTitle":"Williamsburg Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Williamsburg located at 510 Driggs Ave, Brooklyn, NY 11211"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/brooklyn-heights",
+        "currentMetaTitle":"Brooklyn Heights Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Brooklyn Heights located at 200 Montague Brooklyn New York, NY 11201"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/studio-city",
+        "currentMetaTitle":"Studio City Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Studio City located at 12950 Ventura Blvd.\u00a0Studio City, CA 91604"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/pricing\/special-events",
+        "currentMetaTitle":"Barry\u2019s Special Events Fitness Membership & Workout Class Pricing | Barry's",
+        "currentMetaDescription":"View class, packages, and membership pricing at Barry's Barry\u2019s Special Events"
+    },
+    {
+        "currentUrl":"https:\/\/sit.barrys.com\/the-lifestyle",
+        "currentMetaTitle":"Barry\u2019s Fitness Lifestyle and Fitness Class Experience",
+        "currentMetaDescription":"Explore the Barry\u2019s fitness lifestyle with nutrition, recovery advice, community and a unique fitness class experience to live stronger. Learn more today."
+    }
 ]

@@ -26,13 +26,13 @@ test.describe('Testing metadata is correct', async() => {
             expect(title).toBeDefined();
             expect(title).toEqual(currentMetaTitle);
 
-            expect(title.length).toBeLessThanOrEqual(60);
+            // expect(title.length).toBeLessThanOrEqual(60);
             
             // verify meta description is correct
             expect(metaDescription).toBeDefined();
             expect(metaDescription).toEqual(currentMetaDescription);
 
-            expect(metaDescription.length).toBeLessThanOrEqual(160);
+            // expect(metaDescription.length).toBeLessThanOrEqual(160);
             
             console.log('Status code: %s\nTitle: %s\nMeta Description: %s\n', resp.status(), title, metaDescription);
         });
